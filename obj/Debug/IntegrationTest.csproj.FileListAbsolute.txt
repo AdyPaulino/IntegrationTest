@@ -1,2 +1,10 @@
 G:\Ady Paulino\2 Semester\Software QA\Lab5\IntegrationTest\IntegrationTest\bin\Debug\IntegrationTest.exe.config
 C:\Users\mzhang3967\Desktop\IntegrationTest\bin\Debug\IntegrationTest.exe.config
+C:\Users\mzhang3967\Desktop\IntegrationTest\bin\Debug\IntegrationTest.exe
+C:\Users\mzhang3967\Desktop\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\mzhang3967\Desktop\IntegrationTest\obj\Debug\IntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\mzhang3967\Desktop\IntegrationTest\obj\Debug\IntegrationTest.Form1.resources
+C:\Users\mzhang3967\Desktop\IntegrationTest\obj\Debug\IntegrationTest.Properties.Resources.resources
+C:\Users\mzhang3967\Desktop\IntegrationTest\obj\Debug\IntegrationTest.csproj.GenerateResource.Cache
+C:\Users\mzhang3967\Desktop\IntegrationTest\obj\Debug\IntegrationTest.exe
+C:\Users\mzhang3967\Desktop\IntegrationTest\obj\Debug\IntegrationTest.pdb

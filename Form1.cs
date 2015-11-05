@@ -58,23 +58,28 @@ namespace IntegrationTest
 
         private void ageButton_Click(object sender, EventArgs e)
         {
+            String result = "";
+
             switch (country)
             {
                 case 0 :
-                    //CheckAge18();
+                    //result = CheckAge18();
                     break;
                 case 2:
-                    //CheckAge21();
+                    //result = CheckAge21();
                     break;
                 case 3:
-                    //CheckAge18();
+                    //result = CheckAge18();
                     break;
                 case 4:
-                    //CheckAge0();
+                    //result = CheckAge0();
                     break;
                 default:
+                    result = "Don't drink!";
                     break;
             }
+
+            System.Windows.Forms.MessageBox.Show(result);
         }
 
         
