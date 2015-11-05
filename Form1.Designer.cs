@@ -58,6 +58,7 @@
             this.ageButton.TabIndex = 2;
             this.ageButton.Text = "Am I allowed to drink?";
             this.ageButton.UseVisualStyleBackColor = true;
+            this.ageButton.Click += new System.EventHandler(this.ageButton_Click);
             // 
             // Form1
             // 

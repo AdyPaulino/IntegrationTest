@@ -21,5 +21,21 @@ namespace IntegrationTest
         {
 
         }
+
+        private void ageButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        public String CheckAge21(int age, String country)
+        {
+            String result = "";
+            if (age > 21)
+            {
+                result = "You are able to drink in USA!";
+            }
+
+            return result;
+        }
     }
 }
