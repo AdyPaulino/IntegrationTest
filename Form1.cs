@@ -38,9 +38,6 @@ namespace IntegrationTest
 
         }
 
-<<<<<<< HEAD
-        private void ageButton_Click(object sender, EventArgs e)
-=======
         
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -55,12 +52,12 @@ namespace IntegrationTest
         }
 
         private void Form1_Load(object sender, EventArgs e)
->>>>>>> origin/master
+
         {
 
         }
 
-<<<<<<< HEAD
+
         public String CheckAge21(int age, String country)
         {
             String result = "";
@@ -71,7 +68,7 @@ namespace IntegrationTest
 
             return result;
         }
-=======
+
         private void ageButton_Click(object sender, EventArgs e)
         {
             String result = "";
@@ -99,6 +96,5 @@ namespace IntegrationTest
         }
 
         
->>>>>>> origin/master
     }
 }
